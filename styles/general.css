@@ -1,0 +1,36 @@
+body {
+    background: #FFF89A;
+}
+
+h1, p {
+    text-align: center;
+    margin: 30px 160px;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+a {
+    color: #355F2E;
+    text-decoration: underline;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
